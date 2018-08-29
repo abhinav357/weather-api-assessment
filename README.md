@@ -1,1 +1,1 @@
-# weather-api-assessment
+# weather-api
